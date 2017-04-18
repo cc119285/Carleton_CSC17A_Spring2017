@@ -1,0 +1,6 @@
+This program
+will output
+the first 10 lines
+of this file.
+However, this file has only
+6 lines.

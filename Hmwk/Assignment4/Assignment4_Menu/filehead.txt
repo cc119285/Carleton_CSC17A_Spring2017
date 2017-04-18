@@ -1,0 +1,11 @@
+This program will output
+the first 10 lines
+of this file.
+This file has
+11 lines
+so the last line
+should not be output
+by the program.
+The last line
+says
+hi
